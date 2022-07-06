@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://media.giphy.com/media/8dx7Q9AXiMM24/giphy.gif" width=50% height=50%>
+</p>
+
 ### TLDR :
 
 * 🇨🇦 @**Montreal, Canada**
