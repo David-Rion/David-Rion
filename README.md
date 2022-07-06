@@ -14,7 +14,7 @@
 * :guitar: Hard Rock, Lo-Fi
 * :film_projector: Films d'actions et historiques
 * :skier: :climbing_man: Grand fan de Ski, Foot, Escalade, Randonnées
-* 🍕, of course !
+* 🍕:beer::whisky: les micros Québecoises, whisky et la bonne bouffe of course !
 
 ### :hammer_and_wrench: Frameworks, langages, outils
 
