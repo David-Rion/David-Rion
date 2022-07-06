@@ -2,12 +2,12 @@
    <img src="https://media.giphy.com/media/8dx7Q9AXiMM24/giphy.gif" width=50% height=50%>
 </p>
 
-### TLDR :
+### :octocat: TLDR :
 
 * 🇨🇦 @**Montreal, Canada**
 * Techlead **@Desjardins**
 
-#### Mes intérets :
+### :green_heart: Mes intérets :
 
 * 💻 Web dev.
 * 🧠 Apprendre des nouvelles choses et les partager
@@ -32,7 +32,7 @@
 
 ![tests-junit5](https://img.shields.io/badge/Tests-Junit5-informational?style=flat&logo=junit5&logoColor=white&color=2bbc8a) ![tests-jasmine](https://img.shields.io/badge/Tests-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a) ![tests-selenium](https://img.shields.io/badge/Tests-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
 
-### ... un peu de stats :
+### :bar_chart: ... un peu de stats :
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=David-Rion&hide=issues&count_private=true&theme=vue&show_icons=true)
 
